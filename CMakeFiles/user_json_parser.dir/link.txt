@@ -1,2 +1,0 @@
-/usr/bin/ar qc libuser_json_parser.a  CMakeFiles/user_json_parser.dir/src/ledger-user/src/lib/json_parser.c.o CMakeFiles/user_json_parser.dir/src/ledger-user/src/lib/tx_parser.c.o CMakeFiles/user_json_parser.dir/src/ledger-user/src/lib/tx_display.c.o CMakeFiles/user_json_parser.dir/src/ledger-user/src/lib/tx_validate.c.o CMakeFiles/user_json_parser.dir/src/ledger-user/deps/jsmn/src/jsmn.c.o
-/usr/bin/ranlib libuser_json_parser.a
