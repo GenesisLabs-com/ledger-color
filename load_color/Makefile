@@ -72,7 +72,7 @@ clean_tendermint:
 	BOLOS_SDK=$(CURDIR)/deps/nanos-secure-sdk BOLOS_ENV=/opt/bolos \
 	make -C $(LEDGER_TENDERMINT_SRC) clean
 
-load_cosmos: build_cosmos
+load_color: build_cosmos
 	SCP_PRIVKEY=$(SCP_PRIVKEY) \
 	BOLOS_SDK=$(CURDIR)/deps/nanos-secure-sdk BOLOS_ENV=/opt/bolos \
 	make -C $(LEDGER_COSMOS_SRC) load
@@ -116,5 +116,5 @@ dev_ca_delete:
 
 clean: clean_cosmos clean_tendermint
 build: build_cosmos build_tendermint
-load: build load_cosmos load_tendermint
+load: build load_color load_tendermint
 delete: delete_cosmos delete_tendermint
