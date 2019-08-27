@@ -1,0 +1,2 @@
+/usr/bin/ar qc libval_lib.a  CMakeFiles/val_lib.dir/src/ledger-val/src/lib/vote.c.o CMakeFiles/val_lib.dir/src/ledger-val/src/lib/vote_fsm.c.o CMakeFiles/val_lib.dir/src/ledger-val/src/lib/vote_buffer.c.o CMakeFiles/val_lib.dir/src/ledger-val/src/lib/vote_parser.c.o CMakeFiles/val_lib.dir/src/ledger-val/deps/ledger-zxlib/src/buffering.c.o
+/usr/bin/ranlib libval_lib.a

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

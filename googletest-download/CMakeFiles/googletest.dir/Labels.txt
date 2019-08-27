@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/CMakeFiles/googletest
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/CMakeFiles/googletest.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/CMakeFiles/googletest-complete.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/saad/bolos-devenv/ledger-cosmos/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
