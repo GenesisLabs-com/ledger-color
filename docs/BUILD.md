@@ -69,6 +69,11 @@ This is useful when you want to make changes to libraries, run unit tests, etc. 
 ```
 cmake . && make
 ```
+**In case above command won't work**
+```
+cmake -DDISABLE_DOCKER_BUILDS=ON . && make
+```
+
 **Run unit tests**
 ```
 export GTEST_COLOR=1 && ctest -VV
@@ -89,7 +94,7 @@ make        # Builds both Cosmos and Tendermint apps
 **Upload the app to the device**
 The following command will upload the application to the ledger. _Warning: The application will be deleted before uploading._
 ```
-make load_cosmos          # Loads Cosmos app       (for users)
+make load_color          # Loads Color app       (for users)
 make load_tendermint      # Loads Tendermint app   (for validators)
 ```
 
