@@ -3,7 +3,7 @@
 echo "***Downloading Submodules***"
 git submodule update --init --recursive
 echo "***Downloading Color App***"
-git submodule add https://github.com/RNSSolution/ledger-color-app
+git clone https://github.com/RNSSolution/ledger-color-app.git
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 mv "$parent_path"/ledger-color-app/* "$parent_path"/src/ledger-user/
 echo "***Downloading Essential Modules"
