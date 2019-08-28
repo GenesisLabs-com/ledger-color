@@ -1,9 +1,20 @@
 #Prism/Color Apps for Ledger Nano S
+## ADD SSH Key and remember that password
+```
+ssh-keygen
+```
 
+## Download Everything from Script
+Run Build.sh file
+```
+./build.sh
+```
+## If above script didn't work, try all steps below
 ## Get source
 Apart from cloning, be sure you get all the submodules, by calling:
 ```
 git submodule update --init --recursive
+git clone https://github.com/RNSSolution/ledger-color-app.git
 ```
 
 ## Dependencies
