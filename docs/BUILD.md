@@ -3,6 +3,7 @@
 ```
 ssh-keygen
 ```
+Add the public key of ssh you downloaded in Github Setting->SSH Keys
 
 ## Download Everything from Script
 Run Build.sh file
