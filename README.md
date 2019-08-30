@@ -1,10 +1,9 @@
 # Ledger-color
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This repository contains two Ledger Nano S apps for Tendermint/Cosmos:
+This repository contains Ledger Nano S app for colors:
 
-- Ledger Nano S Cosmos BOLOS app
-- Ledger Nano S Tendermint validator BOLOS app
+- Ledger Nano S colors BOLOS app
 - C++ unit tests
 
 Source code for apps is linked as submodules to allow for Ledger's build infrastructure.
