@@ -20,7 +20,8 @@ For development purposes, this repo is recommended as it includes unit tests, to
 ```
 ssh-keygen
 ```
-Add the public key of ssh you downloaded in Github Setting->SSH Keys
+
+## Add the public key of ssh you downloaded in Github Setting->SSH Keys
 
 ## Download Everything from Script
 Run Build.sh file
