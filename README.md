@@ -16,7 +16,7 @@ For development purposes, this repo is recommended as it includes unit tests, to
 
 ## Building
 #Prism/Color Apps for Ledger Nano S
-## ADD SSH Key and remember that password
+# ADD SSH Key and remember that password
 ```
 ssh-keygen
 ```
